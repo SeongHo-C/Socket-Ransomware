@@ -31,15 +31,15 @@ Socket Ransomware 프로젝트는 시스템보안 과목에서 배운 SHA-256과
 
 ## System Structure
 
-<img src="https://user-images.githubusercontent.com/83394485/176669961-6bb2a85c-af7b-4e81-a8bf-6e560b693f39.JPG"/>
+<img src="https://user-images.githubusercontent.com/83394485/176669961-6bb2a85c-af7b-4e81-a8bf-6e560b693f39.JPG" width="400"/>
 
 ## Result
 ### 서버 
 
-<img src="https://user-images.githubusercontent.com/83394485/176670854-783840b0-cf92-46c8-a46c-2b37b3a9b38a.png" height="400" />
+<img src="https://user-images.githubusercontent.com/83394485/176670854-783840b0-cf92-46c8-a46c-2b37b3a9b38a.png" height="400" width="800" />
 
 ### 클라이언트
 
-<img src="https://user-images.githubusercontent.com/83394485/176670982-c7958709-b288-47f7-8dc1-be874df0d651.png" height="400" />
+<img src="https://user-images.githubusercontent.com/83394485/176670982-c7958709-b288-47f7-8dc1-be874df0d651.png" height="400" width="800" />
 
 🚔본 Socket Ransomware 프로젝트는 학습용으로 만들어졌습니다.🚔
