@@ -1,5 +1,5 @@
 ## 2021 - Socket Ransomware
-## TCP/IP 공부를 위해 소켓을 이용한 랜섬웨어 🚨
+## TCP/IP 학습을 위해 소켓을 이용한 랜섬웨어 🚨
 ## Ransomware using sockets to study TCP/IP
 #### Project nickname : 소켓 랜섬웨어
 #### Project period : 2021.10.14~2021.12.14
@@ -11,9 +11,9 @@ Socket Ransomware 프로젝트는 시스템보안 과목에서 배운 SHA-256과
 
 ## Environment
 
-> C# .NET Framwork
+> C# .NET Framework
 >
-> MYSQL DMBS
+> MYSQL
 
 ## Main Function
 ### 암호화
